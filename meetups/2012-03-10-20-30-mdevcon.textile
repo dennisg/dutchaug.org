@@ -1,0 +1,21 @@
+---
+layout: page
+title: DutchAUG @ mdevcon
+group: meetup
+---
+
+h2. mdevcon 2012
+
+On Saturday March 10th 2012 "mdevcon":http://mdevcon.com/ will be held in the beautiful Tuschinski theater in Amsterdam (visit the [website|http://mdevcon.com/] to get tickets).
+
+mdevcon is a conference by developers, for developers working with mobile technology. There will be talks targeted at a specific platform and talks of a more platform independent nature. mdevcon welcomes independent developers, freelancers and developers working for a company: "It doesn’t matter who you are or where you work, if you work with mobile technology you’ll enjoy this conference".
+
+Read more about the conference and schedule here. mdevcon is sponsored by "Egeniq"":http://www.egeniq.nl/ and organized by DutchAUGer "Ivo Jansch":http://www.dutchaug.org/members/12629751.
+
+DutchAUG @ events
+
+As mentioned on the first meetup we are planning to attend a fair amount of mobile conferences ourselves. And with our own organizer "Wiebe Elsinga":http://www.dutchaug.org/members/21758011 talking on "Prototype your mobile applications" and DutchAUGer "Hugo Visser":http://www.dutchaug.org/members/9475687 on "Embracing Android Fragmentation" it is a great opportunity to spread the word about the DutchAUG to the mdevcon audience.
+
+If you are attending mdevcon as well let us know by RSVPing "Yes" to this meetup and we'll have a short meetup at one of the conference breaks or sessions.
+
+If you are thinking about attending mdevcon think fast, tickets sales are going fast so decide quickly if you don't want to miss out. If you attend the ""Android meets the Enterprise"":http://www.dutchaug.org/events/46919792 meetup you have a chance of winning a free ticket, or get your money back (in case you've already bought a ticket), with the compliments of the mdevcon organization.
