@@ -10,11 +10,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : DutchAUG dot org
-tagline: Site Tagline
+tagline: for Android enthusiasts
 author :
   name : DutchAUG
-  email : info@dutchaug.org
+  email : organizers@dutchaug.org
   github : dennisg
+  twitter : @dutchaug
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
