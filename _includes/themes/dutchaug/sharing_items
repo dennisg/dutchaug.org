@@ -1,0 +1,3 @@
+    {% include themes/dutchaug/sharing/twitter_item %}
+    {% include themes/dutchaug/sharing/plusone_item %}
+    {% include themes/dutchaug/sharing/facebook_item %}

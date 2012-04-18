@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: Home
 ---
 The DutchAUG is a place where Dutch Android professionals can meet and connect with each other on a regular basis. The main goal is to inspire and be inspired by hearing members sharing their knowledge about- and experiences with their passion, Android. We embrace- and make contributions to the Open Source community.
 
