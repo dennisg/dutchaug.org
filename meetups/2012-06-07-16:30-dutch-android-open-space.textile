@@ -6,7 +6,7 @@ group: meetup
 
 
 
-!{width:100%}images/Dutch-Android-Open-Space-1.png!
+!{width:100%}images/Dutch-Android-Open-Space-1.png!:http://www.dutchaug.org/events/63236452/
 
 h2. _Theme: "Together we can build awesome apps!"_
 
