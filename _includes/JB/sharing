@@ -6,8 +6,3 @@
 {% endcase %}
 
 {% endif %}
-
-{% case site.JB.sharing.provider %}
-{% when "custom" %}
-  {% include custom/sharing %}
-{% endcase %}
