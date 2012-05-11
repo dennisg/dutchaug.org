@@ -1,0 +1,8 @@
+    {% include custom/sharing-providers/twitter/item %}
+    {% include custom/sharing-providers/plusone/item %}
+    {% include custom/sharing-providers/facebook/item %}
+    
+    {% include custom/sharing-providers/facebook/setup %}
+    {% include custom/sharing-providers/plusone/setup %}
+    {% include custom/sharing-providers/twitter/setup %}
+    

@@ -1,3 +1,0 @@
-    {% include themes/dutchaug/sharing/facebook_setup %}
-    {% include themes/dutchaug/sharing/plusone_setup %}
-    {% include themes/dutchaug/sharing/twitter_setup %}
