@@ -1,0 +1,21 @@
+---
+layout: page
+title: Dutch Android Open Space
+group: meetup
+---
+
+
+
+!{width:100%}images/Dutch-Android-Open-Space-1.png!
+
+h2. _Theme: "Together we can build awesome apps!"_
+
+
+If you are working on mobile projects you know that time-to-market is often short. The client wants to have the best looking app and your end-users deserve the best user experience. How do you create an awesome Android app in such a short time frame and still keep smiling? How can we work together? What have you learned along the way and what is still a big hurdle to take, every time you start an Android project? Do you re-use components? And how do you build, test and deploy your app? All fair questions and hopefully disclosing the Open Space theme will get you more excited to join the conversation.
+
+h4. Rich Hyndmann opening keynote
+
+We are very excited to announce that no one less than Google Android Developer Advocate and DutchAUG supporter Rich Hyndmann will open the Open Space meetup via an On Air hangout. In an inspirational keynote Rich will share his vision on how we can build awesome apps. After his keynote we will open up the hangout for Q&A, so feel free to prepare a question or two for Rich.
+
+*_We hope to see you all on June 7th!_*
+
